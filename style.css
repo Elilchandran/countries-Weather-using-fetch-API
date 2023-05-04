@@ -1,0 +1,30 @@
+.card {
+    margin-bottom: 1rem;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  }
+  
+  .card-header {
+    background-color: #d2e5f1;
+    color: #fff;
+    font-weight: bold;
+  }
+  
+  .card-body {
+    text-align: center;
+  }
+  
+  .card-body img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 1rem;
+  }
+  
+  .card-body p {
+    margin-bottom: 0.5rem;
+  }
+  
+  .card-body button {
+    margin-top: 1rem;
+  }
+  
+  
